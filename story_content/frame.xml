@@ -22,7 +22,7 @@
           <option name="sidebar_enabled" value="true">
             <options>
               <option name="sidebarpos" value="left" />
-              <option name="closed" value="false" />
+              <option name="closed" value="true" />
             </options>
           </option>
           <optionlist name="tabs">
@@ -82,9 +82,9 @@
       </optiongroup>
       <optiongroup name="buttonoptions">
         <options>
-          <option name="next" value="icontext" />
-          <option name="previous" value="icontext" />
-          <option name="submit" value="icontext" />
+          <option name="next" value="icon" />
+          <option name="previous" value="icon" />
+          <option name="submit" value="icon" />
         </options>
       </optiongroup>
       <optiongroup name="ccOptions">
